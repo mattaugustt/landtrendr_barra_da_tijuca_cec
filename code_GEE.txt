@@ -2,6 +2,7 @@ LandTred Code:
 https://code.earthengine.google.com/00afc3f8dd5ab401d53652480f298cdd?noload=true
 
 Time Series Inspector:
-https://code.earthengine.google.com/02bb6359e7e26ba0ddffc217400e8fbc?noload=true
+https://code.earthengine.google.com/447c6f9cb55e680a3f3039d94124a686?noload=true
+
 
 
