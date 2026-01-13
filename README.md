@@ -19,8 +19,8 @@ Repositório contendo os scripts utilizados na classificação e validação com
 
 <br>
 
-* Dados com os resultados da pesquisa sobre a antropização na Barra da Tijuca no período de 1984 a 2024, utilizando o algoritmo LandTrendr.
-* Os dados foram coletados executando o algoritmo na plataforma de computação em nuvem Google Earth Engine.
+Dados com os resultados da pesquisa sobre a antropização na Barra da Tijuca no período de 1984 a 2024, utilizando o algoritmo LandTrendr.
+Os dados foram coletados executando o algoritmo na plataforma de computação em nuvem Google Earth Engine.
 * O arquivo "lt_BarraTijuca_NDVI.tif" é o arquivo raster com as bandas resultantes da execução do algoritmo.
 * O arquivo "code_GEE.txt" possui os links para os scripts do LandTrendr e do Time Series Inspector originais, que foram utilizados.
 * A pasta "Barra da Tijuca" possui os arquivos vetoriais para a apresentação da área de estudo.
